@@ -17,7 +17,7 @@
         <br /><br />
         
         <nav>
-            <a href="home.php"> Overview</a>
+            <a href="index.php"> Overview</a>
             <a href="popular.php"> Popular Tools</a>
             <a href="upgrades.php"> Upgrades in Tech</a>
             <a href="uses.php"> Uses of VR</a>
