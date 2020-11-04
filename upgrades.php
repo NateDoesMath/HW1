@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> VR Software Development </title>
+        <meta charset="utf-8">
+        
+        <style>
+            @import url("css/styles.css");
+        </style>
+        
+    </head>
+    
+        <header>
+            <h1>Virtual Reality Software Development</h1>
+            
+        <hr>
+        <br /><br />
+        
+        <nav>
+            <a href="home.php"> Overview</a>
+            <a href="popular.php"> Popular Tools</a>
+            <a href="upgrades.php"> Upgrades in Tech</a>
+            <a href="uses.php"> Uses of VR</a>
+        </nav>
+            
+        </header>
+        
+        <br /><br />
+    <body>
+        
+        <main>
+            
+            <figure>
+                <img src="img/Headgear.png">
+            </figure>
+            
+            <div>
+                <h1>Upgrades in Tech</h1>
+                <br />
+                <p>There have been many upgrades in VR technology that have improved the quality of life and cost of VR.</p>
+                <p>In the early stages of VR technology, VR owners had to be very precise where they set it up.</p>
+                <P>External sensors were the only way to track hand and head movement making the rig very awkward at first.</p>
+                <p>Now there is a new technology called inside out tracking where there are HD cameras set up at different angles in the headgear.</p>
+                <p>The headset uses a smart-software to track the movements of the user making external sensors obsolete.</p>
+                <P>This also makes the rig a lot less expensive as now there are not external sensors that are needed.</P>
+                <br />
+                <p>It should be no surprise that one of the other upgrades are the production of wireless headsets.</p>
+                <p>The earlier incarnations of VR had wires and while they are reliable, it is very easy for the user to get tangled in them.</p>
+                <P>There are still many other challenges that face VR, such as remoteless hand-tracking and the use of full body rigs.</P>
+                <p>Breakthroughs and upgrades in the technology are being worked on and experimented with to where VR will be accesible to everyone.</p>
+                
+                <br />
+                <small>
+                    <a href="https://thewiredshopper.com/virtual-reality-top-five-breakthroughs/" target="blank"> source</a>
+                </small>
+            </div>
+        </main>
+        <footer>
+            <hr>
+            CST336 Internet Programming 2020&copy; Beal
+        </footer>
+    </body>
+</html>
